@@ -17,3 +17,9 @@ Afinar uma guitarra/violão utilizando o MyRio conectado a um display e um micro
 Motivação
 
 O trabalho envolve manipulação de sinais de áudio, vistos na cadeira de SSL, conceitos de programação do LabView, possível aplicação de conceitos de combinatória e, ainda, um pouco teoria musical. Além disso, é uma aplicação diária na vida de quem toca/trabalha com instrumentos.
+
+Interface Gráfica
+
+A linguagem de programação LabView facilita a proposta, tornando tanto a programação quanto a interface gráfica integradas e simples.
+
+
