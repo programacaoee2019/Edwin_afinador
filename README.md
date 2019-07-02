@@ -25,6 +25,6 @@ O usuário escolherá a corda em Choosing the string. Após tocá-la, os indicad
 
 # Fluxograma
 
-
+![Fluxograma](Fluxograma.png)
 
 
