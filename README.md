@@ -27,5 +27,5 @@ O usuário escolherá a corda em Choosing the string. Após tocá-la, os indicad
 
 ![Fluxograma](Fluxograma.png)
 
-A doocumentação do código e do projeto estão na pasta Afinador.
+A documentação do código e do projeto estão na pasta Afinador.
 
