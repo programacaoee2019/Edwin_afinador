@@ -19,7 +19,7 @@ O trabalho envolve manipulação de sinais de áudio, vistos na cadeira de SSL, 
 
 A linguagem de programação LabView facilita a proposta, tornando tanto a programação quanto a interface gráfica integradas e simples. Logo abaixo, um exemplo do Front Painel.
 
-![FrontPainel](https://user-images.githubusercontent.com/48916600/59400712-c145b200-8d6e-11e9-9de6-26cfb85cd2e0.png)
+![Interface](Interface.png)
 
 O usuário escolherá a corda em Choosing the string. Após tocá-la, os indicadores em LED afirmam se sua corda está frouxa ou não. Um indicador mais sensível acima (com ponteiro) servirá para atingir a afinação (TUNED). 
 
