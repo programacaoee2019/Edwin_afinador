@@ -27,5 +27,7 @@ O usuário escolherá a corda em Choosing the string. Após tocá-la, os indicad
 
 ![Fluxograma](Fluxograma.png)
 
-A documentação do código e do projeto estão na pasta Afinador.
+# Instruções de uso
+
+A documentação do código e do projeto estão na pasta Afinador. É necessário ter ao menos o LabView 2018 e drivers de áudio dos microfone utilizado.
 
